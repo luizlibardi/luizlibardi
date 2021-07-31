@@ -11,6 +11,6 @@
 </a>
 
 ## My skills:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" alt="Elixir" width="50" heigth="50" style="max-width:100%;"> </img> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" alt="Elixir" width="50" heigth="50" style="max-width:100%;"> </img>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" heigth="50" style="max-width:100%;"> </img> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="50" heigth="50" style="max-width:100%;"> </img>
