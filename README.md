@@ -1,5 +1,5 @@
 ### About me
-## I'm Luiz Libardi
+## I'm Luiz Libardi :call_me_hand:
 - I live in :brazil:
 - I have been worked on Alertrack as backend developer :computer:
 - I have been experience with Elixir and Php :space_invader:
