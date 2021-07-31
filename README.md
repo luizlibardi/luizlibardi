@@ -2,7 +2,7 @@
 ## I'm Luiz Libardi
 - I live in :brazil:
 - I have been worked on Alertrack as backend developer :computer:
-- I have experience with Elixir and Php :space_invader:
+- I have been experience with Elixir and Php :space_invader:
 - I have been learning more about Python :robot:
 
 ## Contact with me:
