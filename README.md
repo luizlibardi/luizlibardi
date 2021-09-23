@@ -2,7 +2,7 @@
 ## I'm Luiz Libardi :call_me_hand:
 - I live in :brazil:
 - I have been worked as back-end developer :computer:
-- I have been experience with Elixir and Php :space_invader:
+- I have been experience with Elixir and PHP :space_invader:
 - My favourite language is Python :robot:
 - Now I'm learning about front-end development
 
