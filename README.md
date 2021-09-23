@@ -9,9 +9,7 @@
 ## Contact with me:
 <a href="https://www.linkedin.com/in/luizlibardi/" target="_blank" rel="external">
 <img align="center", alt="luiz-linkedin", heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="max-width:100%;">
-</a>
-<br>
- <a href="http://wa.me/+5527999014445" target="_blank" rel="external">
+</a> <a href="http://wa.me/+5527999014445" target="_blank" rel="external">
 <img align="center", alt="whatsapp", heigh="30" width="40" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-whatsapp-1.png" style="max-width:100%;">
 
 
