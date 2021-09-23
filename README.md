@@ -4,7 +4,7 @@
 - I have been worked as back-end developer :computer:
 - I have been experience with Elixir and Php :space_invader:
 - My favourite language is Python :robot:
-
+- Now I'm learning about front-end development
 
 ## Contact with me:
 <a href="https://www.linkedin.com/in/luiz-fernando-libardi-331060187/" target="_blank" rel="external">
@@ -17,5 +17,7 @@
 </img> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="50" heigth="50" style="max-width:100%;"> </img>
 
-## Test:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+## I'm Studying now:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width"50" heigth="50" style="max-width:100%;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width"50" heigth="50" style="max-width:100%;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width"50" heigth="50" style="max-width:100%;"/>
