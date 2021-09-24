@@ -1,10 +1,10 @@
 ### About me
 ## I'm Luiz Libardi :call_me_hand:
 - I live in :brazil:
-- I have been worked as back-end developer :computer:
+- I have been worked on back-end developer :computer:
 - I have been experience with Elixir and PHP :space_invader:
 - My favourite language is Python :robot:
-- Now I'm learning about front-end development
+- Now I'm learning about front-end development.
 
 ## Contact with me:
 <a href="https://www.linkedin.com/in/luizlibardi/" target="_blank" rel="external">
