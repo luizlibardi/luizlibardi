@@ -1,7 +1,7 @@
 ### About me
 ## I'm Luiz Libardi :call_me_hand:
 - I live in :brazil:
-- I have been worked on back-end developer :computer:
+- I have been worked on front and back-end developer :computer:
 - I have been experience with Elixir, PHP, React.js :space_invader:
 - My favourite language is Python :robot:
 - Now I'm learning about data development and data science.
