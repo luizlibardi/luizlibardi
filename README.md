@@ -4,7 +4,7 @@
 - I have been worked on back-end developer :computer:
 - I have been experience with Elixir, PHP, React.js :space_invader:
 - My favourite language is Python :robot:
-- Now I'm learning about front-end development.
+- Now I'm learning about data development and data science.
 
 ## Contact with me:
 <a href="https://www.linkedin.com/in/luizlibardi/" target="_blank" rel="external">
