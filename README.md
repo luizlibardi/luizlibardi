@@ -28,4 +28,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" heigth="50" style="max-width:100%;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" heigth="60" style="max-width:100%;"/>
 <img src="https://www.nobleprog.com.br/sites/hitrahr/files/category_images/height100_scale/pyspark_training.png?t=59415bb3" alt="pySpark" width="60" heigth="80" style="max-width:100%;"/>
-<img src="https://miro.medium.com/max/900/1*c7gkx366nMxBuTrt82CjDg.jpeg" alt="pySpark" width="60" heigth="80" style="max-width:100%;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="pySpark" width="60" heigth="80" style="max-width:100%;"/>
