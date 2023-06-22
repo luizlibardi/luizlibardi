@@ -3,14 +3,14 @@
 - I live in :brazil:
 - Data developer intern at CI&T
 - I have been worked on front and back-end developer :computer:
-- I have been experience with Elixir, PHP, React.js :space_invader:
+- I have been experience with Elixir, Python, PHP, React.js :space_invader:
 - My favourite language is Python :robot:
 - Now I'm learning about data development and data science.
 
 ## Contact with me:
 <a href="https://www.linkedin.com/in/luizlibardi/" target="_blank" rel="external">
 <img align="center", alt="luiz-linkedin", heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="max-width:100%;">
-</a>  <a href="http://wa.me/+5527999014445" target="_blank" rel="external">
+</a>  <a href="http://wa.me/+5527999670550" target="_blank" rel="external">
 <img align="center", alt="whatsapp", heigh="30" width="40" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2016/png/iconmonstr-whatsapp-1.png&r=0&g=0&b=0" style="max-width:100%;">
 
 
