@@ -1,7 +1,7 @@
 ### About me
 ## I'm Luiz Libardi :call_me_hand:
 - I live in :brazil:
-- Data developer intern at CI&T
+- Data Engineer at CI&T
 - I have been worked on front and back-end developer :computer:
 - I have been experience with Elixir, Python, PHP, React.js :space_invader:
 - My favourite language is Python :robot:
